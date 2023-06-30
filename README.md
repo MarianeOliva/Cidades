@@ -1,3 +1,5 @@
-# Exerc-cioAula6
+# Cidades
 
-Exercício de HTML5 & CSS3
+Uma pequena página web sobre 3 pontes de cidades diferentes.
+
+Desenvolvido por mim, utilizando HTML & CSS3
